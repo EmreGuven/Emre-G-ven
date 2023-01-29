@@ -1,6 +1,6 @@
 <h1>Hi I am Emre Güven</h1>
 
-![Snake animation](https://github.com/gabrielpondaco/gabrielpondaco/blob/output/github-contribution-grid-snake.svg)
+<!--[Snake animation](https://github.com/gabrielpondaco/gabrielpondaco/blob/output/github-contribution-grid-snake.svg) -->
 
 <!-- ![GitHub stars](https://img.shields.io/github/stars/EmreGuven?style=social) -->
 <div align="center">
