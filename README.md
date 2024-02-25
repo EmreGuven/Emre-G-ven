@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi everyone, my name is Emre Güven
+  Hi everyone
 </h1> 
 
 <!--[Snake animation](https://github.com/gabrielpondaco/gabrielpondaco/blob/output/github-contribution-grid-snake.svg) -->
