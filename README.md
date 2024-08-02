@@ -40,7 +40,7 @@
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://user-images.githubusercontent.com/61664693/116169150-b6029200-a70c-11eb-9921-7069d54849ae.png" width="40px"></img></a> -->
 <a href="https://docs.microsoft.com/en-us/dotnet/"><img src="https://user-images.githubusercontent.com/61664693/116169144-b569fb80-a70c-11eb-8e31-211ff32c07b5.png" width="40px"></img></a>
 <hr>
-
+<!-- 
 <p align="center">
   <p>
     <a href="https://github.com/EmreGuven" target="_blank">
@@ -52,7 +52,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=EmreGuven&theme=nord&date_format=j%20M%5B%20Y%5D" />
   </a>
   </p>
-
+ -->
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=torukobyte&theme=nord&v=2&layout=compact&langs_count=10&hide=Markdown,Config,xml,yaml,json,Cocoa,Solution+file,Csproj,textmate,Gitignore+file,Other,Text,cshtml,Groovy,IL,AUTO_DETECTED,csharp,Jsonc,Publish+Profile+file)](https://github.com/EmreGuven) -->
 
 
